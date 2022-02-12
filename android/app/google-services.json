@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173751504513",
+    "firebase_url": "https://snake1-86130-default-rtdb.firebaseio.com",
+    "project_id": "snake1-86130",
+    "storage_bucket": "snake1-86130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173751504513:android:49d6df2ec4128d97ab8780",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173751504513-eljqthj8pj729ons9aadekni52obmr6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiNJI3z4KKU6WD8yFQJPKiHV85by3Fnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173751504513-eljqthj8pj729ons9aadekni52obmr6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

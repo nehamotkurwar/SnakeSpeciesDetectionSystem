@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SnakeInfo1"
+    android:background="@color/tfe_color_primary">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/king"
+        android:layout_width="wrap_content"
+        android:layout_height="188dp"
+        android:src="@drawable/king_cobra" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="King Cobra"
+        android:textSize="20dp"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="King Cobra (Ophiophagus hannah) is the world’s largest venomous snake and mostly found in Agumbe Rainforest of Western Ghats. Western Ghats of Karnataka, Kerala and Tamil Nadu is home to the magnificent King Cobra,living in the deep jungles by the Ghats and respected above all others snakes."
+        android:textColor="#000000"
+        android:textSize="17dp"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bamboo"
+        android:id="@+id/bamboo"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bamboo Pit Viper"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:text="Indian Green Pit Viper or Bamboo pit viper found in bamboo forests of southern India but also seen near Harishchandragad in Western Ghats range. Bamboo Pit Viper (Trimeresurus gramineus) is a venomous pit viper snake and has no subspecies"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/shieldtail"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Khaire’s Black Shieldtail"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A new species of snake called Khaire’s black shieldtail (Melanophidium khairei) has been discovered in the Western Ghats of India. This new snake species belongs to family of Uropeltidae and mostly lives underground,Its first such discovery of snake after a span of 144 years."
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/humpnosedpitviper"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Hump Nosed Pit Viper"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hump Nosed Pit Viper (Hypnale hypnale) is one of the highly venomous pitviper species,found in the Western Ghats of India. This species of vipers are nocturnal, aggressive and listed as highly venomous snake in western coast of India."
+        android:textSize="17dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/malabar_pit_viper"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Malabar Pit Viper"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Malabar Pit Viper (Trimeresurus malabaricus) is the highly venomous pit viper species of snake, endemic to the Western Ghats of southwestern India. The Malabar rock pit viper is nocturnal and slow moving snake and commonly found on trees and rocks near streams."
+        android:textSize="17dp"/>
+
+
+
+
+</LinearLayout>
+
+</ScrollView>

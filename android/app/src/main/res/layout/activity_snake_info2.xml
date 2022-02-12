@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SnakeInfo2"
+    android:background="@color/tfe_color_primary">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bandedkukri"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Banded Kukri Snake "
+            android:textSize="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The common kukri or banded kukri is also a colubrid found in the region. They are non-venomous and have razor sharp teeth. They are also easy to identify because of their banded markings and arrow-like patterns on their head. Navegaon National Park is also home to the Russell’s kukri snake."
+            android:textSize="17dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wolf_snake" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Barred Wolf Snake"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:text="Lycodon aulicus, commonly known as the Indian wolf snake, is a species of nonvenomous snake found in South Asia and Southeast Asia. Early naturalists have suggested its resemblance to the venomous common krait as an instance of Batesian mimicry."
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/green_keelback"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Green Keelback"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17dp"
+            android:text="Rhabdophis plumbicolor, commonly known as the green keelback or the lead keelback,[1] is a species of nonvenomous snake in the family Colubridae. The species is endemic to parts of Asia.Stout bodied with keeled scales. Scales on head are smooth, large and variable in size. Large eye has round pupil. Overall, bright or dull green coloration is mostly known for the species. Sometimes individuals can be found with faint irregular black cross-lines. Belly is grayish or glossy white. Young snakes have a bright yellow or rarely orange Ë� shaped mark on neck and bordered on both sides by a dark blue-black area. Also green keelback have a black stripe from eye to angle of mouth. These markings are absent in adults."
+            />
+
+
+
+    </LinearLayout>
+
+</ScrollView>
